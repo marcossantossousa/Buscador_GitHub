@@ -5,6 +5,8 @@ type SearchProps = {
 import { BsSearch } from "react-icons/bs";
 
 const Search = ({ loadUser }: SearchProps) => {
+  const;
+
   return (
     <div>
       <h2>Busque por um usuário:</h2>
